@@ -1,0 +1,694 @@
+canonical_identifier: bkk:krp/KR5d0057/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5d0057/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太玄寶典
+  date: '2015-08-29 02:02:05.347700'
+  source:
+    repository: kanripo
+    path: KR5d0057
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0057_000-CK-KZ-jye.yaml, hash: 'sha256:3366fdfc1f8257c4a246593704f32ecd4113ebaef9e0518d79c766c7d7c64092'}
+  - {seq: 1, filename: KR5d0057_001-CK-KZ-jye.yaml, hash: 'sha256:486ff63e5dcefb6a5f0fdd183da4e28a1420e99b9758a07b2159447270dccb83'}
+  - {seq: 2, filename: KR5d0057_002-CK-KZ-jye.yaml, hash: 'sha256:ef957508d7af00538acc1f2067aaa01587371a22f35a2f1d4cf848624abbff4b'}
+  - {seq: 3, filename: KR5d0057_003-CK-KZ-jye.yaml, hash: 'sha256:5fc425ef80d0a242d7b08f7f740f9d16d8c3cee87f2c47833618d44e9bb4d901'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5d0057_001-CK-KZ-jye.markers.yaml, hash: 'sha256:2ba96638530353f7470aa167e13d6adb52b76509d5a5dda935b3cb759ca70f23'}
+  - {seq: 2, role: markers, filename: assets/KR5d0057_002-CK-KZ-jye.markers.yaml, hash: 'sha256:a7ee3ad676078a533edc04c4da943845c903ea672b2d979d48eca0b8b10b6ea3'}
+  - {seq: 3, role: markers, filename: assets/KR5d0057_003-CK-KZ-jye.markers.yaml, hash: 'sha256:01b3c83d27af2cac511f432f741796079acdf704f86557f946d4049fb17846fc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 修眞冲寂門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 0
+    - 115
+  label: 神靈天象章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 115
+    - 232
+  label: 氣虛洞應章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 232
+    - 345
+  label: 精堅保命章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 345
+    - 534
+  label: 天地配形章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 534
+    - 697
+  label: 陰陽造化章¶<md:KR5d0057_HFL_001-003a>
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 697
+    - 841
+  label: 胎息自然章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 841
+    - 1011
+  label: 鉛汞發萌章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h10
+    span:
+    - body
+    - 1011
+    - 1011
+  label: 修眞符聖門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h11
+    span:
+    - body
+    - 1011
+    - 1189
+  label: 神化神章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h12
+    span:
+    - body
+    - 1189
+    - 1366
+  label: 氣化氣章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h13
+    span:
+    - body
+    - 1366
+    - 1509
+  label: 精化精章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h14
+    span:
+    - body
+    - 1509
+    - 1649
+  label: 天地可移章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h15
+    span:
+    - body
+    - 1649
+    - 1772
+  label: 陰陽入握章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h16
+    span:
+    - body
+    - 1772
+    - 1838
+  label: 胎息吐納章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h17
+    span:
+    - body
+    - 1838
+    - 1970
+  label: 鉛汞見寶章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h18
+    span:
+    - body
+    - 1970
+    - 1970
+  label: 修眞致妙門¶<md:KR5d0057_HFL_001-008a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h19
+    span:
+    - body
+    - 1970
+    - 2089
+  label: 神岀神章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h20
+    span:
+    - body
+    - 2089
+    - 2173
+  label: 氣定氣章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h21
+    span:
+    - body
+    - 2173
+    - 2293
+  label: 精神氣全章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h22
+    span:
+    - body
+    - 2293
+    - 2404
+  label: 韜形晦迹章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h23
+    span:
+    - body
+    - 2404
+    - 2456
+  label: 驅神靈章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h24
+    span:
+    - body
+    - 2456
+    - 2555
+  label: 齊老幼章
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5d0057_CK-KZ-jye_001-h25
+    span:
+    - body
+    - 2555
+    - 2579
+  label: 長生不死章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 錬¶<md:KR5d0057_HFL_001-010b>¶¶¶¶¶¶¶¶¶¶<md:KR5d0057_HFL_002-001a>¶凡全眞門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 0
+    - 155
+  label: 輕骨章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 155
+    - 318
+  label: 煉氣圓定章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 318
+    - 500
+  label: 生神水章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 500
+    - 624
+  label: 運眞火章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 624
+    - 736
+  label: 嬰兒出胎章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 736
+    - 889
+  label: 姹女生華章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 889
+    - 1048
+  label: 陰陽配合章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 1048
+    - 1048
+  label: 煉凡生神門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 1048
+    - 1184
+  label: 神體生光華章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h11
+    span:
+    - body
+    - 1184
+    - 1345
+  label: 五臟通明章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h12
+    span:
+    - body
+    - 1345
+    - 1447
+  label: 四體內滌章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h13
+    span:
+    - body
+    - 1447
+    - 1567
+  label: 三宫明黃道章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h14
+    span:
+    - body
+    - 1567
+    - 1684
+  label: 寶火入鼎章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h15
+    span:
+    - body
+    - 1684
+    - 1753
+  label: 丹光應液章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h16
+    span:
+    - body
+    - 1753
+    - 1851
+  label: 玉泉無漏章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h17
+    span:
+    - body
+    - 1851
+    - 1851
+  label: 煉凡出象門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h18
+    span:
+    - body
+    - 1851
+    - 2039
+  label: 補神生胎章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h19
+    span:
+    - body
+    - 2039
+    - 2116
+  label: 補氣眞源章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h20
+    span:
+    - body
+    - 2116
+    - 2249
+  label: 飛躑登攀章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h21
+    span:
+    - body
+    - 2249
+    - 2385
+  label: 大禹步章
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h22
+    span:
+    - body
+    - 2385
+    - 2476
+  label: 度神鬼章¶<md:KR5d0057_HFL_002-009b>
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5d0057_CK-KZ-jye_002-h23
+    span:
+    - body
+    - 2476
+    - 2548
+  label: 透靈托化章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 58
+  label: 無情得過章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 58
+    - 58
+  label: 養氣構神門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 58
+    - 183
+  label: 木神養神章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 183
+    - 317
+  label: 木精養精章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 317
+    - 469
+  label: 木氣養氣章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 469
+    - 611
+  label: 木英點骨章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 611
+    - 720
+  label: 五芝通神明章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 720
+    - 810
+  label: 仙人長壽杖章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 810
+    - 890
+  label: 老翁木馬章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h10
+    span:
+    - body
+    - 890
+    - 890
+  label: 養氣增靈門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h11
+    span:
+    - body
+    - 890
+    - 1000
+  label: 草神生神章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h12
+    span:
+    - body
+    - 1000
+    - 1066
+  label: 草精生精章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h13
+    span:
+    - body
+    - 1066
+    - 1183
+  label: 草氣生氣章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h14
+    span:
+    - body
+    - 1183
+    - 1362
+  label: 草丹度世章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h15
+    span:
+    - body
+    - 1362
+    - 1502
+  label: 靈草換肌章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h16
+    span:
+    - body
+    - 1502
+    - 1607
+  label: 草通九竅章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h17
+    span:
+    - body
+    - 1607
+    - 1725
+  label: 草五行丹章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h18
+    span:
+    - body
+    - 1725
+    - 2269
+  label: 服水章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5d0057_CK-KZ-jye_003-h19
+    span:
+    - body
+    - 2269
+    - 2470
+  label: 登雲章
+  type: section
+  level: 3
+hash: sha256:f71e6482592a84ba4a662c360f7023ba595e93c8aea82ea0f929059719292bb7

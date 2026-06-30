@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5d0057/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太玄寶典
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:02:05.347700'
+  source:
+    repository: kanripo
+    path: KR5d0057/KR5d0057_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:f8a0ed1724d3e5abf9732cdcf08a92068e21296fba46a5410115e51169cff9ab
