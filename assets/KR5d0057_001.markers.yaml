@@ -13,6 +13,7 @@ markers:
   - {type: variant, offset: 4, length: 8, content: 卷上中下同卷去六, CK-KZ: ''}
   - {type: variant, offset: 4, length: 8, content: 卷上中下同卷去六, YP-C: ''}
   - {type: punctuation, offset: 6, content: (, id: KR5d0057_krp_001-bkkpn1}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR5d0057_krp_001-bkkpn2}
   - {type: punctuation, offset: 10, content: ), id: KR5d0057_krp_001-bkkpn3}
   body:
@@ -1257,4 +1258,4 @@ markers:
 
       ', id: KR5d0057_krp_001-bkkkrnewl218}
   back: []
-hash: sha256:b2555678215916fa293928514e19c85bdfe90e344c0e477bf3d0b9413b27c436
+hash: sha256:e8c284a6be527fd14a18388d10a63554b57ee976a75e97cca8b47c72a4a60feb
